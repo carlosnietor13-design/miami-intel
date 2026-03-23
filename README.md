@@ -190,3 +190,5 @@ If you prefer WordPress, you can embed this as a full-page app:
 4. Or use **Full Site Editing** in WordPress 6.x to embed via iframe block
 
 > **Recommendation**: Vercel deployment is simpler, faster, and free. Use WordPress only if you need CMS integration for blog/content around the app.
+trigger deploy
+> 
